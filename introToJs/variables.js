@@ -1,0 +1,14 @@
+let fisrtName="Payo";
+let lastName="Agrawal";
+let fullName=fisrtName+" "+lastName;
+console.log(fullName);
+const id=09;
+//id=10;
+console.log(id);
+let designation_student=false;
+designation_student=true;
+console.log(designation_student);
+let name="Tommy";
+let age=4;
+age=age+1;
+console.log("My dog "+name+" is turning "+age);

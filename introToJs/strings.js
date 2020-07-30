@@ -1,0 +1,14 @@
+let name="Geeta";
+let surname="Phogat";
+console.log(`${name} ${surname}`);
+console.log(`${name} ${surname}`.length);
+console.log(`                 ${name} ${surname}                     `.trim());
+console.log(`${name} ${surname}`.toUpperCase());
+console.log(`${name} ${surname}`.toLowerCase());
+console.log(`${name} ${surname}`.split(" "));
+console.log(`${name} ${surname}`.split(""));
+let a="Air";
+let b="India";
+const c=`${a} ${b}`;
+console.log(c);
+console.log(typeof c);
